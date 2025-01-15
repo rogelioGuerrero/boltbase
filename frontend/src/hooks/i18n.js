@@ -1,4 +1,3 @@
-
 import useLocalStore from 'hooks/useLocalStore';
 
 function useI18n() {

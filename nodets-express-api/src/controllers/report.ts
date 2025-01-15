@@ -1,5 +1,3 @@
-
-
 /**
 * Report Contoller Class
 * @category  Controller

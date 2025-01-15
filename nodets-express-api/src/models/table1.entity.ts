@@ -1,4 +1,3 @@
-
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 import BaseModel from './basemodel';
 
@@ -65,5 +64,3 @@ export default class Table1 extends BaseModel {
 	
 	
 }
-
-

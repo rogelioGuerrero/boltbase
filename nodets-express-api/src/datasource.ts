@@ -52,5 +52,3 @@ SelectQueryBuilder.prototype.exists = async function (): Promise<boolean> {
   const result = await this.select(isExistsQuery(this.getQuery())).where('').take(1).getRawOne();
   return result?.exists == '1';
 };
-
-

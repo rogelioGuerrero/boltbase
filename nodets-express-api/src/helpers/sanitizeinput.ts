@@ -1,4 +1,3 @@
-
 // convert blank fields to null.
 // trim string inputs
 export default function sanitizeInput(obj) {

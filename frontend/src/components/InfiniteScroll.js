@@ -1,4 +1,3 @@
-
 import { useEffect, useState, useRef } from 'react';
 
 export function InfiniteScroll(props) {

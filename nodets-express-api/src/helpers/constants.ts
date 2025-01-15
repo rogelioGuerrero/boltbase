@@ -1,4 +1,3 @@
-
 export default {
 	AccountVerified: "Verified",
     AccountNotVerified: "Not Verified",
